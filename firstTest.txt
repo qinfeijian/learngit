@@ -1,2 +1,2 @@
 git is a distributed version control system
-gis is free softwate
+gis is free softwate distributed under the GPL
